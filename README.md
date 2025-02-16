@@ -56,9 +56,4 @@ The dataset contains:
 ✅ Introduce **outlier detection** to identify anomalies in company valuation.  
 ✅ Incorporate **additional economic indicators** (inflation, industry trends) for deeper insights.  
 
----
 
-## **Installation & Usage**  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/harshnagar25/Financial-analytics.git
