@@ -61,4 +61,4 @@ The dataset contains:
 ## **Installation & Usage**  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/harshnagar25/financial-analytics.git
+   git clone https://github.com/harshnagar25/Financial-analytics.git
